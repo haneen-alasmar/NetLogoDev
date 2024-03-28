@@ -232,6 +232,23 @@ GRAPHICS-WINDOW
 ticks
 30.0
 
+BUTTON
+0
+0
+0
+0
+NIL
+NIL
+NIL
+1
+T
+OBSERVER
+NIL
+NIL
+NIL
+NIL
+1
+
 SLIDER
 23
 397
@@ -406,23 +423,6 @@ TEXTBOX
 _______________________________________
 11
 0.0
-1
-
-BUTTON
-235
-121
-298
-154
-NIL
-NIL
-NIL
-1
-T
-OBSERVER
-NIL
-NIL
-NIL
-NIL
 1
 
 @#$#@#$#@
